@@ -1,0 +1,4 @@
+Motor 1,100.0
+Kia Stonic,200.0
+Hyundai i30,190.0
+znjmnj i30,190.0
